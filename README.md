@@ -42,6 +42,19 @@ Pour toute erreur veuillez rejoindre le serveur de support https://discord.gg/xk
   
 }
 ```
+## **Question réponses** 
+ID_DU_BUYER = `TON ID DISCORD`
+comment récupérer son id
+
+<details><summary>
+
+comment récuperer son id ?
+
+</summary>
+
+<img src="https://3620842171-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-MSJEmB4b-Yp2A0fEP2s%2F-MTpVCyAIUpC8PjfmrpV%2F-MTpc5hrNy_n-l4OKCLa%2Fdeveloper-mode.gif" width="40" height="40" />
+
+</details>
 
 ## :raised_hands: **Contribution**
 Si tu souhaites contribuer à ce projet, n'hésite pas à ouvrir une pull request !
